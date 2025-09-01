@@ -37,27 +37,28 @@ Final dataset: 12 columns, 100,000 rows
 
 
 ### Attack Success vs Failure – Pie chart (almost equal split)
-<img width="870" height="395" alt="image" src="https://github.com/user-attachments/assets/5fcccc38-7a6b-43b6-80f9-16aa3de93076" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/5fcccc38-7a6b-43b6-80f9-16aa3de93076" />
 
 
 # 📈 Dashboards & Storyboards
 
-Dashboards: Global overview, Canada & USA focus
-<img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/41acf020-50bc-409c-83de-f16683f44cd1" />
-<img width="975" height="503" alt="image" src="https://github.com/user-attachments/assets/81c0d763-9818-439e-b6b2-dd3b95458795" />
+### Dashboards: Global overview
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/41acf020-50bc-409c-83de-f16683f44cd1" />
+### Dashboards: Canada & USA focus
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/81c0d763-9818-439e-b6b2-dd3b95458795" />
 
 
-# Storyboards:
+## Storyboards:
 
 ### Russia – highest data loss
-<img width="813" height="466" alt="image" src="https://github.com/user-attachments/assets/ed7c8c2f-df06-42c3-8bc2-4b6e13c3490e" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ed7c8c2f-df06-42c3-8bc2-4b6e13c3490e" />
 
 ### March – peak in attacks
-<img width="932" height="539" alt="image" src="https://github.com/user-attachments/assets/0496c19d-9038-408a-8cd8-0c65084b85e7" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/0496c19d-9038-408a-8cd8-0c65084b85e7" />
 
 
 ### Western countries – higher attack count
-<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/fb57d294-66db-4fd3-af66-5318d3f9ccd4" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/fb57d294-66db-4fd3-af66-5318d3f9ccd4" />
 
 
 # ✅ Outcome
