@@ -1,8 +1,8 @@
-#📊 Cyber Crimes Data Visualization Project
+## 📊 Cyber Crimes Data Visualization Project
 
 This project focuses on analyzing a large cybersecurity dataset (100,000 rows, 12 columns) from Kaggle, using data cleaning and visualization techniques to uncover key insights about cyber-attacks globally.
 
-#🔧 Tools Used
+## 🔧 Tools Used
 
 Data Cleaning: Excel
 
@@ -10,13 +10,13 @@ Visualization: Tableau, Power BI
 
 Dataset Source: Kaggle - Cyber Crimes Dataset
 
-#🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 Removed unnecessary columns: attacker_ip, targeted_ip, mitigation_method
 
 Final dataset: 12 columns, 100,000 rows
 
-#📌 Goals & Visualizations
+## 📌 Goals & Visualizations
 
 Attack Types – Bar chart showing Brute Force as most common attack
 
@@ -30,11 +30,11 @@ Security Tools vs Attack Types – Grouped bar chart
 
 Attack Success vs Failure – Pie chart (almost equal split)
 
-#📈 Dashboards & Storyboards
+## 📈 Dashboards & Storyboards
 
 Dashboards: Global overview, Canada & USA focus
 
-#Storyboards:
+## Storyboards:
 
 Russia – highest data loss
 
@@ -42,7 +42,7 @@ March – peak in attacks
 
 Western countries – higher attack count
 
-#✅ Outcome
+## ✅ Outcome
 
 This project enhanced my understanding of:
 
