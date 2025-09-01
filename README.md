@@ -44,6 +44,7 @@ Final dataset: 12 columns, 100,000 rows
 
 ### Dashboards: Global overview
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/41acf020-50bc-409c-83de-f16683f44cd1" />
+
 ### Dashboards: Canada & USA focus
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/81c0d763-9818-439e-b6b2-dd3b95458795" />
 
